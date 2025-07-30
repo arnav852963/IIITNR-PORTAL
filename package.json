@@ -1,0 +1,19 @@
+{
+  "name": "portal",
+  "version": "1.0.0",
+  "description": "website to host research papers and patents",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "paper",
+    "patent"
+  ],
+  "author": "ARNAV NAMAN VANSH",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
